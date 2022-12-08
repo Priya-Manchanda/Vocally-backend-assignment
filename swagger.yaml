@@ -4,8 +4,8 @@ info:
   contact: {}
   version: '1.0'
 servers:
-  - url: https://vocally-assginment.up.railway.app
-    variables: {}
+  # - url: https://vocally-assginment.up.railway.app
+    # variables: {}
   - url: http://localhost:9000
     variables: {}
 paths:

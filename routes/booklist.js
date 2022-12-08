@@ -1,6 +1,5 @@
 const mongoose = require("mongoose");
 const express = require("express");
-var cors = require("cors");
 const books = require("../models/Booklist");
 const router = express.Router();
 var fetchBook = require("../middlewares/fetchToken");
